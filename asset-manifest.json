@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-wave-player/static/css/main.3b61c53f.chunk.css",
+    "main.js": "/react-wave-player/static/js/main.b1e246be.chunk.js",
+    "main.js.map": "/react-wave-player/static/js/main.b1e246be.chunk.js.map",
+    "runtime-main.js": "/react-wave-player/static/js/runtime-main.405a85b7.js",
+    "runtime-main.js.map": "/react-wave-player/static/js/runtime-main.405a85b7.js.map",
+    "static/js/2.1f845c42.chunk.js": "/react-wave-player/static/js/2.1f845c42.chunk.js",
+    "static/js/2.1f845c42.chunk.js.map": "/react-wave-player/static/js/2.1f845c42.chunk.js.map",
+    "index.html": "/react-wave-player/index.html",
+    "static/css/main.3b61c53f.chunk.css.map": "/react-wave-player/static/css/main.3b61c53f.chunk.css.map",
+    "static/js/2.1f845c42.chunk.js.LICENSE.txt": "/react-wave-player/static/js/2.1f845c42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.405a85b7.js",
+    "static/js/2.1f845c42.chunk.js",
+    "static/css/main.3b61c53f.chunk.css",
+    "static/js/main.b1e246be.chunk.js"
+  ]
+}
